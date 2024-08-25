@@ -1,0 +1,11 @@
+[tile]
+plannerpathtile=Planner Path
+
+[object]
+plannerwall=Planner Wall
+plannerfence=Planner Fence
+
+[itemtooltip]
+plannerpathplacetip=Can be easily replaced by other blocks.
+plannerwallplacetip=Can be easily replaced by other blocks.
+plannerfenceplacetip=Can be easily replaced by other blocks.
