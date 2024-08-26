@@ -11,8 +11,8 @@ import java.awt.*;
 
 public class PlannerWallObject extends WallObject {
 
-    public PlannerWallObject() {
-        super("plannerwall", "plannerwall", new Color(0, 0, 200), 0, ToolType.ALL);
+    public PlannerWallObject(String textureName, Color mapColor) {
+        super(textureName, textureName, mapColor, 0, ToolType.ALL);
         this.objectHealth = 1;
     }
 

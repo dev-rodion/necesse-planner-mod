@@ -1,9 +1,21 @@
 [tile]
-plannerpathtile=Planner Path
+plannerpathtile=Planner Path (Blue)
+plannerpathtilewhite=Planner Path (White)
+plannerpathtilepink=Planner Path (Pink)
+plannerpathtilelightgreen=Planner Path (Light Green)
+plannerpathtilepurple=Planner Path (Purple)
 
 [object]
-plannerwall=Planner Wall
-plannerfence=Planner Fence
+plannerwall=Planner Wall (Blue)
+plannerfence=Planner Fence (Blue)
+plannerwallwhite=Planner Wall (White)
+plannerfencewhite=Planner Fence (White)
+plannerwallpink=Planner Wall (Pink)
+plannerfencepink=Planner Fence (Pink)
+plannerwalllightgreen=Planner Wall (Light Green)
+plannerfencelightgreen=Planner Fence (Light Green)
+plannerwallpurple=Planner Wall (Purple)
+plannerfencepurple=Planner Fence (Purple)
 
 [itemtooltip]
 plannerpathplacetip=Can be easily replaced by other blocks.

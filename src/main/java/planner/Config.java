@@ -16,10 +16,5 @@ public class Config {
                 new Ingredient("anylog", 1),
             }
         );
-//                new Ingredient("palmlog", 1),
-//                new Ingredient("pinelog", 1),
-//                new Ingredient("sprucelog", 1),
-//                new Ingredient("willowlog", 1),
-//                new Ingredient("deadwoodlog", 1),
     }
 }

@@ -4,16 +4,14 @@ import necesse.engine.localization.Localization;
 import necesse.entity.mobs.PlayerMob;
 import necesse.gfx.gameTooltips.ListGameTooltips;
 import necesse.inventory.InventoryItem;
-import necesse.inventory.item.toolItem.ToolType;
 import necesse.level.gameObject.FenceObject;
-import necesse.level.gameObject.WallObject;
 
 import java.awt.*;
 
 public class PlannerFenceObject extends FenceObject {
 
-    public PlannerFenceObject() {
-        super("plannerfence", new Color(0, 0, 200), 1, 1);
+    public PlannerFenceObject(String textureName, Color mapColor) {
+        super(textureName, mapColor, 1, 1);
         this.objectHealth = 1;
     }
 

@@ -10,8 +10,8 @@ import java.awt.*;
 
 public class PlannerPathObject extends PathTiledTile {
 
-    public PlannerPathObject() {
-        super("plannerpath", new Color(0, 0, 200));
+    public PlannerPathObject(String textureName, Color mapColor) {
+        super(textureName, mapColor);
         this.tileHealth = 1;
     }
 
